@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<movies xmlns:collection="http://movies.com">
+<parent xmlns="movie_collection"/>
+
+<collection:movie>
+	<collection:id>1</collection:id>
+	<collection:title>X-Men: Apocalypse</collection:title>
+	<collection:showtimes>
+		<collection:showtime>1:45pm</collection:showtime>
+		<collection:showtime>3:15pm</collection:showtime>
+		<collection:showtime>6:30pm</collection:showtime>
+	</collection:showtimes>
+	<collection:emptyElement1/>
+	<collection:emptyElement2/>	
+</collection:movie>
+
+<collection:movie>
+	<collection:id>2</collection:id>
+	<collection:title>Teenage Mutant Ninja Turtles: Out of the Shadows</collection:title>
+	<collection:showtimes>
+		<collection:showtime>4:20pm</collection:showtime>
+		<collection:showtime>6:15pm</collection:showtime>
+		<collection:showtime>9:15pm</collection:showtime>
+	</collection:showtimes>
+	<collection:emptyElement1/>
+	<collection:emptyElement2/>	
+</collection:movie>
+
+<collection:movie>
+	<collection:id>3</collection:id>
+	<collection:title>Warcraft</collection:title>
+	<collection:showtimes>
+		<collection:showtime>7:00pm</collection:showtime>
+		<collection:showtime>9:50pm</collection:showtime>
+		<collection:showtime></collection:showtime>
+	</collection:showtimes>
+	<collection:emptyElement1/>
+	<collection:emptyElement2/>	
+</collection:movie>
+
+<collection:movie>
+	<collection:id>4</collection:id>
+	<collection:title>Captain America: Civil War</collection:title>
+	<collection:showtimes>
+		<collection:showtime>12:00pm</collection:showtime>
+		<collection:showtime>3:15pm</collection:showtime>
+		<collection:showtime>6:30pm</collection:showtime>
+	</collection:showtimes>
+	<collection:emptyElement1/>
+	<collection:emptyElement2/>	
+</collection:movie>
+
+
+
+</xml>
